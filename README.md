@@ -11,9 +11,9 @@ Add the following to the end of `~/.zshrc`:
 eval "$(starship init zsh)"
 ```
 
-### Starship Setup
+# Starship Setup
 
-# Terminal Emulator: iTerm2
+### Terminal Emulator: iTerm2
 - Theme: Minimal
 Change: iTerm2 > Settings > Appearance > General > Theme > Minimal
 
