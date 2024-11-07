@@ -1,5 +1,7 @@
 My Complete Shell Setup
 --------
+<img src="terminal.png" />
+
 
 Install https://ohmyz.sh/#install
 ```
