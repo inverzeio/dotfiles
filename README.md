@@ -34,6 +34,7 @@ brew install lsd
 brew install fzf
 brew install tide
 brew install neovim
+brew install bat
 ```
 
 
